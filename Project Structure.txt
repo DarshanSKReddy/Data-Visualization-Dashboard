@@ -1,0 +1,12 @@
+data-visualization-dashboard/
+├── index.html
+├── css/
+│   └── style.css
+├── js/
+│   ├── chart.js
+│   └── main.js
+├── data/
+│   └── sales-data.json
+├── .gitignore
+├── LICENSE
+└── README.md
