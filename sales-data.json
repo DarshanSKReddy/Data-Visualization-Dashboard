@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "lastUpdated": "2023-11-15T14:30:00Z",
+    "period": "Q3 2023",
+    "previousPeriod": "Q2 2023"
+  },
+  "monthlySales": {
+    "labels": ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep"],
+    "data": [120, 150, 100, 180, 220, 250, 210, 230, 240],
+    "previousData": [90, 110, 95, 130, 150, 180, 160, 190, 200]
+  },
+  "productSales": {
+    "labels": ["Product A", "Product B", "Product C", "Product D", "Product E"],
+    "data": [45, 30, 25, 40, 20],
+    "colors": ["#4a6fa5", "#166088", "#4cb944", "#ff9800", "#f44336"]
+  },
+  "regionalSales": {
+    "labels": ["North", "South", "East", "West", "Central"],
+    "data": [120, 90, 110, 85, 95],
+    "colors": ["#4a6fa5", "#166088", "#4cb944", "#ff9800", "#f44336"]
+  },
+  "channelSales": {
+    "labels": ["Online", "Retail", "Wholesale", "Direct"],
+    "data": [180, 120, 150, 90],
+    "colors": ["#4a6fa5", "#166088", "#4cb944", "#ff9800"]
+  },
+  "metrics": {
+    "totalRevenue": 125000,
+    "previousRevenue": 98000,
+    "unitsSold": 1250,
+    "previousUnits": 980,
+    "topProduct": "Product A",
+    "topProductSales": 225,
+    "avgOrderValue": 100,
+    "previousAvgOrder": 92
+  }
+}
